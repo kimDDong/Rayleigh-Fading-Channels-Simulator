@@ -14,7 +14,8 @@ This simulator uses the **Clarke and Gans model**, which generates realistic Ray
 
 ## 🖥️ GUI Preview
 
-<img src="assets/screenshot.png" width="600"/>
+![image](https://github.com/user-attachments/assets/c7999af7-b8d5-487d-9834-0502401c6cda)
+
 
 ---
 
@@ -39,4 +40,3 @@ You can install required packages with:
 
 ```bash
 pip install numpy matplotlib
-![image](https://github.com/user-attachments/assets/4ec42f21-a5e2-401f-ae99-e27672824e7c)
